@@ -72,3 +72,16 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Christina/Library/
+Christina/UserSettings/
+Christina/Logs/
+Christina/Build/
+Christina/Builds/
+
+*.apk
+*.unitypackage
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.DS_Store
+*.vscode
