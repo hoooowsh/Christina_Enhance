@@ -85,3 +85,4 @@ Christina/Builds/
 *.mdb.meta
 *.DS_Store
 *.vscode
+.env
