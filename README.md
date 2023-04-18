@@ -1,13 +1,11 @@
 # Christina_Enhance
 
 ## Intro
-This is a desktop chatbot project
+This is a desktop chatbot project.
 
 ## Techs
 * ChatGPT APIs
-* Dialogflow
-* Chatbot interface
-* Unreal Engine Character
+* Unity
 
 ## Note
-Remember, this project might take forever..
+This project is till in development process..
